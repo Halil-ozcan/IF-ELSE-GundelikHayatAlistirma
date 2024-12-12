@@ -46,7 +46,7 @@ namespace Alistirma_3
 
                 Console.WriteLine("Öğrencilerimize Yüzde 20 İndirimimiz Bulunmaktadır. " + tutar + " TL ");
             }
-            else
+            else if(musteriTuru == "3")
             {
                 tutar = (fiyat * 10) / 100;
                 Console.WriteLine("Üyelik Sahibi Müşterilerimize Yüzde 10 İndirimimiz Bulunmaktadır. " + tutar + " TL ");
