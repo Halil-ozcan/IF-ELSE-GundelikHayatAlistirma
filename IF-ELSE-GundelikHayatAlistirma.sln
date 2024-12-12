@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF-ELSE-GundelikHayatAlisti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alistirma2", "Alistirma2\Alistirma2.csproj", "{BADD234E-20E4-41D6-909B-536AD5605C4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alistirma 3", "Alistirma 3\Alistirma 3.csproj", "{C69644C9-DC89-4387-ACC6-841BB7B9ADC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BADD234E-20E4-41D6-909B-536AD5605C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BADD234E-20E4-41D6-909B-536AD5605C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BADD234E-20E4-41D6-909B-536AD5605C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C69644C9-DC89-4387-ACC6-841BB7B9ADC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69644C9-DC89-4387-ACC6-841BB7B9ADC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69644C9-DC89-4387-ACC6-841BB7B9ADC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69644C9-DC89-4387-ACC6-841BB7B9ADC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
